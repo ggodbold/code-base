@@ -1,0 +1,21 @@
+/* Overrides pretty print styles */
+
+.prettyprint {
+	font-size: 13px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+/* Override for vibrant them */
+.typ {
+	color: #0BF2FC;
+}
+
+.lit {
+	color: #FC4047;
+}
+
+.atn {
+	color: #7AF3F3;
+}

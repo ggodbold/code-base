@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/* custom styles added by Glen */
+
+div.code {
+	margin-top: 20px;
+}
+
+p {
+	line-height: 24px;
+}
+
+p.bg-primary {
+	padding:15px;
+	border: 0px solid;
+    border-radius: 3px;
+}
+
+h4 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.form-inline .form-group label {
+	width: 90px;
+}
+
+#cms .form-inline .select {
+	margin-right: 15px;
+}
+
+.button-group {
+	margin-top: -10px;
+}
+
+.form-horizontal .form-group {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+/* fix that makes jQuery slidedown smooth */
+#cms #languages, #cms #pages, #cms #sections {
+	height: 100%;
+}
